@@ -1,0 +1,4 @@
+Why cant i login
+Answer:Check if password is correct
+I get error passowrd is short
+Answer:Check if password is of correct length f 16 character
